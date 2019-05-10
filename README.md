@@ -2,6 +2,8 @@
 # django-backend-template
 <br>
 This is a template for using django as a backend for a user driven web application.  This project is ready to go with registration, login, password reset, and profile creation.  
+<br>
+For a client side implementation run with <a href="https://github.com/oconnorssoftware/react-auth-template">this react app.</a>
 <br><br>
 To Run:
 <br>
